@@ -1,2 +1,2 @@
 # HelloWorld
-Introductory Git 'Hello Wolrd' repository.
+Introductory Git 'Hello World' repository.
