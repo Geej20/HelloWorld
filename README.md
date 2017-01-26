@@ -1,3 +1,4 @@
 # HelloWorld
 Introductory Git 'Hello World' repository.
-Branch.
+Change to branch.
+Soon to be merged with master.
